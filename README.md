@@ -1,4 +1,4 @@
-//I have already pushed my file, however I am uploading my code in this Read-Me file just in case it cannot be accessed.
+//I have already pushed my file, however I am uploading my code in this Read-Me file just in case it cannot be accessed through the "compare and pull request".
 
 //********************************************************************
 //*                    EEE2046 C template                  
